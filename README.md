@@ -4,9 +4,9 @@ Welcome to my first data cleaning project! In this project, I worked with a data
 
 📂 Dataset
 
-Name: airbnb.csv
+Name: airbnb_open_data.csv
 
-Source: Public Airbnb dataset (you can add a link if it's from Kaggle or any other source)
+Source: Public Airbnb dataset (https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
 
 Description: The dataset contains information about Airbnb listings, including fields such as price, location, number of reviews, availability, and more.
 
