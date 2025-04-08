@@ -30,11 +30,11 @@ Python 🐍
 
 Pandas 🐼
 
-Jupyter Notebook 📓 (or mention any IDE you're using)
+Jupyter Notebook 📓
 
 📊 Output
 
-Cleaned dataset saved as airbnb_cleaned.csv
+Cleaned dataset saved as Excel_cleaned_data.xlsx
 
 Ready for further analysis, visualization, or machine learning
 
