@@ -1,8 +1,8 @@
-🧹 Airbnb Data Cleaning Project
+# 🧹 Airbnb Data Cleaning Project
 
 Welcome to my first data cleaning project! In this project, I worked with a dataset from Airbnb listings to perform essential data cleaning tasks. This is a crucial step in any data science or analytics workflow to ensure the data is accurate, consistent, and ready for analysis or modeling.
 
-📂 Dataset
+## 📂 Dataset
 
 Name: airbnb_open_data.csv
 
@@ -10,7 +10,7 @@ Source: Public Airbnb dataset (https://www.kaggle.com/datasets/arianazmoudeh/air
 
 Description: The dataset contains information about Airbnb listings, including fields such as price, location, number of reviews, availability, and more.
 
-🧽 Cleaning Tasks Performed
+## 🧽 Cleaning Tasks Performed
 
 Removed duplicate entries
 
@@ -24,7 +24,7 @@ Converted data types
 
 Filtered out irrelevant or outlier records
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
 Python 🐍
 
@@ -32,13 +32,13 @@ Pandas 🐼
 
 Jupyter Notebook 📓
 
-📊 Output
+## 📊 Output
 
 Cleaned dataset saved as Excel_cleaned_data.xlsx
 
 Ready for further analysis, visualization, or machine learning
 
-📁 Repository Structure
+## 📁 Repository Structure
 
 airbnb-data-cleaning/
 
